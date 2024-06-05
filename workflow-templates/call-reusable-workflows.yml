@@ -5,7 +5,7 @@ on:
 
 jobs:
   job1:
-    uses: Digital-Solutions-Foundation/reusable-workflows/.github/workflows/display-output.yml
+    uses: Digital-Solutions-Foundation/reusable-workflows/.github/workflows/display-output.yml@main
 
   job2:
     runs-on: ubuntu-latest
