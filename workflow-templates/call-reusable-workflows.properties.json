@@ -1,1 +1,13 @@
-
+{
+    "name": "Vaillant Group Organization Workflow",
+    "description": "Vaillant Group Orgnization Call Reusable Workflows",
+    "iconName": "example-icon",
+    "categories": [
+      "Java"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
