@@ -1,0 +1,11 @@
+{
+    "name": "Java Maven Build Test",
+    "description": "Build and test a Java project with Apache Maven.",
+    "iconName": "maven",
+    "categories": [
+      "Continuous integration", "Java", "Maven", "Spring", "JSF"
+    ],
+    "filePatterns": [
+      "mvnw", "mvnw.cmd"
+    ]
+}
